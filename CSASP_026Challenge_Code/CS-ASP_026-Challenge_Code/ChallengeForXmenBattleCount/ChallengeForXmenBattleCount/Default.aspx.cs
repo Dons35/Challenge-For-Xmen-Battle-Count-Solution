@@ -24,13 +24,13 @@ namespace ChallengeForXmenBattleCount
             {
                 if (numbers[i] == numbers.Max())
                 {
-                    string maxbattles = string.Format("{0} has the most battles.<br />", names[i]);
+                    string maxbattles = string.Format("{0} has the most battles with {1}.<br />", names[i], numbers[i]);
                     result += maxbattles;
                 }
 
                 if (numbers[i] == numbers.Min())
                 {
-                    string minbattles = string.Format("{0} has the least battles.", names[i]);
+                    string minbattles = string.Format("{0} has the least battles with {1}.", names[i], numbers[i]);
                     result += minbattles;
                 }
             }
