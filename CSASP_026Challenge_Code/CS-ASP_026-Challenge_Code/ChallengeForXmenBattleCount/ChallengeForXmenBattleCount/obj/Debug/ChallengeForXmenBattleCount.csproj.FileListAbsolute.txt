@@ -1,0 +1,7 @@
+D:\Visual Studio 2017\source\repos\CSASP_026Challenge_Code\CS-ASP_026-Challenge_Code\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\bin\ChallengeForXmenBattleCount.dll.config
+D:\Visual Studio 2017\source\repos\CSASP_026Challenge_Code\CS-ASP_026-Challenge_Code\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\bin\ChallengeForXmenBattleCount.dll
+D:\Visual Studio 2017\source\repos\CSASP_026Challenge_Code\CS-ASP_026-Challenge_Code\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\bin\ChallengeForXmenBattleCount.pdb
+D:\Visual Studio 2017\source\repos\CSASP_026Challenge_Code\CS-ASP_026-Challenge_Code\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\source\repos\CSASP_026Challenge_Code\CS-ASP_026-Challenge_Code\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\source\repos\CSASP_026Challenge_Code\CS-ASP_026-Challenge_Code\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.dll
+D:\Visual Studio 2017\source\repos\CSASP_026Challenge_Code\CS-ASP_026-Challenge_Code\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.pdb
